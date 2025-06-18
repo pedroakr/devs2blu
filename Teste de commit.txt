@@ -6,10 +6,9 @@ ENVIAR PROJETO PELA PRIMEIRA VEZ:
 
 3° git commit -m "sua mensagem"
 
-4° git remote add origin https://github.com
+4° git remote add origin https://github.com/pedroakr
 
 5° git push origin master OU git push origin main
-
 
 
 ATUALIZAR PROJETO:
